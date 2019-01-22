@@ -59,19 +59,19 @@ const Antonietta = {
 // Once your objects are created, log out the following requests from HR into the console:
 
 // Mitzi's name
-console.log(Mitzi.name);
+//console.log(Mitzi.name);
 
 // Kennan's ID
-console.log(Kennan.id);
+//console.log(Kennan.id);
 
 // Keven's email
-console.log(Keven.email);
+//console.log(Keven.email);
 
 // Gannie's name
-console.log(Gannie.name);
+//console.log(Gannie.name);
 
 // Antonietta's Gender
-console.log(Antonietta.gender);
+//console.log(Antonietta.gender);
 
 // ==== Challenge 3: Object Methods ==== 
 // Give Kennan the ability to say "Hello, my name is Kennan!" Use the console.log provided as a hint.
@@ -80,7 +80,7 @@ console.log(Antonietta.gender);
 Kennan.speak = function(){
   console.log("Hello, my name is Kennan!")
 }
- console.log(Kennan.speak());
+ //console.log(Kennan.speak());
 
 
 // Antonietta loves math, give her the ability to multiply two numbers together and return the product. Use the console.log provided as a hint.
@@ -89,7 +89,7 @@ Kennan.speak = function(){
 Antonietta.multiplyNums = function(a,b){
   console.log(a*b)
 }
-console.log(Antonietta.multiplyNums(3,4));
+//console.log(Antonietta.multiplyNums(3,4));
 
 
 
